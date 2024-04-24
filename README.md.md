@@ -14,4 +14,4 @@
 7. internal and external page navigations
 8. input tags
 
-To see the Live Demo, go to: [Coffee-Junkie Project Demo](https://hetikp0310.github.io/coffee-junkie/)
+To see the Live Demo, go to: <a href="https://hetikp0310.github.io/coffee-junkie/" target="_blank">Coffee-Junkie Project Demo</a>
